@@ -23,5 +23,5 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor -  https://www.frontendmentor.io/profile/Ale-85
 
